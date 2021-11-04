@@ -13,7 +13,7 @@ change the tittle to a desirable Horiseon
 line 11 and 20 on HTML change <div class="header"></div> to <header class="header"></header>
 ```
 ```
-Change line 13 and 15 <div></div> to <nav></nav> on CSS line 27 change .header div to .header nav, line 34 .header div ul to .header nav ul and line 39 .header div ul li to .header nav ul li.
+Change line 13 and 25 <div></div> to <nav></nav> on CSS line 27 change .header div to .header nav, line 34 .header div ul to .header nav ul and line 39 .header div ul li to .header nav ul li.
 
 ```
 
@@ -26,12 +26,19 @@ Change <div></div> in lines 29,35,36,42,43 and 49 to <section></section>
 ```
 
 ```
-Change <div></div> in lines 51 and 73 to <article></article>
+Change <div></div> in lines 45 and 61 to <article></article>
 ```
 
 ```
-Change <div></div> in lines 52,58,59,65,66 and 72 to <aside></aside>
+ <div class="benefits-lead">, <div class="benefits-brand"> and  <div class="benefits-cost"> to  <div class="benefits">
+
+ On the CSS consolidate these element into a single selector  .benefit which will still give the same meaning
 ```
+
+```
+On CSS change the selector .benefit-lead img,benefit-brand img and benefit-cost img to a single selector benefit img
+```
+
 ```
 Change <div></div> in line 74&79 to <footer></footer>
 ```

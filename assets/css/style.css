@@ -87,43 +87,20 @@ p {
     
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
+.benefit {
+    margin-bottom: 36px;
     color: #ffffff;
+}
+
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;    
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 .search-engine-optimization {
