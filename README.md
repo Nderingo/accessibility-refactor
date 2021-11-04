@@ -4,7 +4,7 @@ Refactor existing code to improve it without changing its original work
 
 ## Part 1
 ```
-change the tittle to a desirable ONLINE CONTENT AWARENESS
+change the tittle to a desirable Horiseon
 ```
 
 ## part 2
